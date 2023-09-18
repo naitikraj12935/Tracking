@@ -1,0 +1,10 @@
+.line-chart{
+    margin: 3rem;
+    height: 40vh;
+    width: 40vw;
+}
+.piechart{
+    position: absolute;
+    left: 800px;
+    top: 200px;
+}
